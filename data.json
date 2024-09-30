@@ -1,12 +1,12 @@
 {
     "Counter Strike 2":
     {
-        "name":"Cs2", 
+        "shortName":"Cs2", 
         "release Date": 2023,
         "genre": "shooter",
         "rating": 8.7
     },
-    "Civilization 5":
+    "Civilisation 5":
     {
         "shortName":"Civ 5",
         "release Date": 2010,
@@ -34,7 +34,7 @@
         "genre" : "shooter",
         "rating": 8.1
     },
-    "Civilistion 6":
+    "Civilisation 6":
     {
         "shortName": "Civ 6",
         "release Date": 2019,
