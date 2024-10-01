@@ -2,79 +2,79 @@
     "Counter Strike 2":
     {
         "shortName":"Cs2", 
-        "release Date": 2023,
+        "release Date": "2023",
         "genre": "shooter",
-        "rating": 8.7
+        "rating": "8.7"
     },
     "Civilisation 5":
     {
         "shortName":"Civ 5",
-        "release Date": 2010,
+        "release Date": "2010",
         "genre": "strategy",
-        "rating": 9.5
+        "rating": "9.5"
     },
     "The elder scrolls 5 Skyrim":
     {
         "shortName":"Sykrim",
-        "release Date": 2011,
+        "release Date": "2011",
         "genre": "RPG",
-        "rating": 9.2
+        "rating": "9.2"
     },
     "Crusader Kings 3":
     {
         "shortName": "CK 3",
-        "release Date": 2021,
+        "release Date": "2021",
         "genre": "strategy",
-        "rating": 7.3
+        "rating": "7.3"
     },
     "Call of Duty Black Ops 2":
     {
         "shortName": "Cod Black ops 2",
-        "release Date": 2010,
+        "release Date": "2010",
         "genre" : "shooter",
-        "rating": 8.1
+        "rating": "8.1"
     },
     "Civilisation 6":
     {
         "shortName": "Civ 6",
-        "release Date": 2019,
+        "release Date": "2019",
         "genre": "strategy",
-        "rating": 6.1
+        "rating": "6.1"
     },
     "Broatato":
     {
         "shortName": "Brotatoto",
-        "release Date": 2020,
+        "release Date": "2020",
         "genre": "Arcade",
-        "rating": 8.5
+        "rating": "8.5"
     },
     "The elder scrolls 4 Oblivion":
     {
         "shortName": "Obilivion",
-        "release Date": 2006,
+        "release Date": "2006",
         "genre":"RPG",
-        "rating": 8.7
+        "rating": "8.7"
     },
     "Counter Strike Global Offensive":
     {
         "shortName": "CsGo",
-        "release Date":2010,
+        "release Date": "2010",
         "genre": "shooter",
-        "rating":9.1
+        "rating":"9.1"
     },
     "Counter Strike Source":
     {
         "shortName": "Css",
-        "release Date": 2006,
+        "release Date": "2006",
         "genre":"shooter",
-        "rating" : 7.7
+        "rating" : "7.7"
     },
     "Counter Strike 1.6":
     {
         "shortName": "Cs 1.6",
-        "release Date": 2001,
+        "release Date": "2001",
         "genre": "shooter",
-        "rating": 8.9
+        "rating": "8.9"
     }
    
 }
